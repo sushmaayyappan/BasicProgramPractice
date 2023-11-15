@@ -6,7 +6,7 @@ public class Calculator
         }
 
         public static Integer multiply(Integer a, Integer b) {
-            System.out.println("This is version1");
+            System.out.println("This is version2");
             return (a * b);
         }
     }
